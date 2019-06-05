@@ -1,3 +1,5 @@
+#TODO
+- [ ] visualize pytorch input tensor 
 # Useful Image Utils
 
 This repo is used for image operations. Such as, read/write, transformations ...
